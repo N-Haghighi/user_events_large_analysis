@@ -68,5 +68,15 @@ Retention was measured as the proportion of users active on more than one day.
 
 ---
 
-## Project Structure
+
+
+## Purpose
+
+This project demonstrates:
+
+- Structured exploratory data analysis  
+- Clean preprocessing pipeline  
+- Business-oriented KPI interpretation  
+- Reproducible analytical workflow  
+
 
