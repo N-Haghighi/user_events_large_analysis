@@ -80,3 +80,31 @@ Install required libraries:
 
 ```bash
 pip install pandas numpy matplotlib
+
+
+
+## 📊 Sample Visualizations
+
+### 📈 Daily Activity Trend
+![Daily Activity Trend](daily activity trend.png)
+
+---
+
+### ⏰ Activity by Hour
+![Activity by Hour](activity by hour.png)
+
+---
+
+### 👥 User Activity Distribution
+![User Activity Distribution](user activity distribution.png)
+
+---
+
+### 📅 Distribution of Active Days per User
+![Active Days Distribution](distribution of active days per user.png)
+
+---
+
+### 📱 Activity by Device
+![Activity by Device](activity by device.png)
+
