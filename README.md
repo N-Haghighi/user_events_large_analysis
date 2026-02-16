@@ -82,6 +82,8 @@ Install required libraries:
 pip install pandas numpy matplotlib
 ```
 
+---
+
 ## 📊 Sample Visualizations
 
 ### 📈 Daily Activity Trend
