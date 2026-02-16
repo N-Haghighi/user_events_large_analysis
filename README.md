@@ -80,7 +80,7 @@ Install required libraries:
 
 ```bash
 pip install pandas numpy matplotlib
-
+```
 
 
 ## 📊 Sample Visualizations
