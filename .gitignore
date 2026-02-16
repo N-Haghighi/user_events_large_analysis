@@ -1,0 +1,8 @@
+# Notebooks (temporary)
+main.ipynb
+user_events_data_process.ipynb
+user_events_dfgenerator.ipynb
+
+# Raw experimental files
+main.py
+user_events.csv
